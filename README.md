@@ -57,7 +57,7 @@ STUDENTMANAGEMENT/
 
 ## Project Images
 <img src="https://github.com/Rajasreesingamshetty5geetha/StudentManagement/blob/main/images/img2.png" alt="Alt Text" width="600" height="600">
-<img src="https://github.com/Rajasreesingamshetty5geetha/StudentManagement/blob/main/images/img3.png" alt="Alt Text" width="600" height="600">
-<img src="https://github.com/Rajasreesingamshetty5geetha/StudentManagement/blob/main/images/img1.png" alt="Alt Text" width="600" height="600">
+<img src="https://github.com/Rajasreesingamshetty5geetha/StudentManagement/blob/main/images/img3.png" alt="Alt Text" width="700" height="600">
+<img src="https://github.com/Rajasreesingamshetty5geetha/StudentManagement/blob/main/images/img1.png" alt="Alt Text" width="800" height="600">
 
 
